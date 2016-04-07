@@ -1,0 +1,28 @@
+﻿table {
+    background: #f6d6d6;
+    border: 2px solid #aa6262;
+    border-collapse: collapse;
+    text-shadow: 2px 2px 3px #808080;
+}
+
+td {
+    font-family: Consolas;
+    font-size: 40px;
+    border: 2px solid #d13d3d;
+    padding: 13px 25px;
+    color: #d13d3d
+}
+
+#result {
+    text-align: right;
+    padding-right: 15px;
+}
+
+#zero {
+    text-align: center;
+}
+
+.buttons > td:hover {
+    background: white;
+    cursor: pointer;
+}

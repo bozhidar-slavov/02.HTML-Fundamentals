@@ -1,0 +1,16 @@
+﻿img {
+    width: 200px;
+    height: 110px;
+}
+
+h2 {
+    font-size: 28px;
+    text-align: center;
+    margin: 0;
+}
+
+#text {
+    font-size: 18px;
+    padding: 0 15px;
+    width: 250px;
+}
