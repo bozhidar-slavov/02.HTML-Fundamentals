@@ -1,0 +1,22 @@
+﻿table {
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid black;
+    width: 260px;
+}
+
+.leftColumn {
+    text-align: center;
+    width: 150px;
+}
+
+#buttons {
+    text-align: center;
+    background-color: #26bdbd
+}
+
+#country {
+    width: 170px;
+}

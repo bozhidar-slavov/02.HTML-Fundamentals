@@ -1,0 +1,88 @@
+﻿table, th, td {
+    font-family: Verdana, sans-serif;
+    font-size: 11px;
+    border: 1px solid #c0c4cc;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+thead, tfoot {
+    background-color: #e7e9eb;
+}
+
+p {
+    float: right;
+    margin: 5px 5px 0 0;
+}
+
+button, input[type="text"], input[type="checkbox"] {
+    display: inline-block;
+    vertical-align: middle;
+	margin: 1px;
+}
+
+.filter, .nav {
+    border: none;
+    width: 22px;
+    height: 22px;
+}
+
+.filter {
+    background-image: url("images/filter.gif");
+}
+
+.first {
+    background-image: url("images/first.gif");
+}
+
+.previous {
+    background-image: url("images/previous.gif");
+}
+
+.next {
+    background-image: url("images/next.gif");
+}
+
+.last {
+    background-image: url("images/last.gif");
+}
+
+.pages {
+    background: none;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    padding: 2px;
+	margin: 0;
+}
+
+#firstColumn {
+	width: 70px;
+}
+
+#secondColumn {
+	width: 250px;
+}
+
+#thirdColumn {
+	width: 160px;
+}
+
+#fourthColumn {
+	width: 150px;
+}
+
+#fifthColumn {
+	width: 165px;
+}
+
+#sixthColumn {
+	width: 75px;
+}
+
+.pages:hover {
+    border-color: #c95c05;
+}
+
+button:hover, input[type="checkbox"]:hover, select:hover {
+    cursor: pointer;
+}
