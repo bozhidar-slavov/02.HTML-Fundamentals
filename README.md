@@ -1,1 +1,1 @@
-# HTML-Fundamentals Course Repository
+# HTML Fundamentals Course Repository
